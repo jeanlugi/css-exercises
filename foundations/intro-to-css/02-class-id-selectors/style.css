@@ -1,0 +1,16 @@
+.impares {
+  background-color: rgb(211, 160, 168);
+  font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+#number2 {
+  color: blue;
+  font-size: 36px;
+}
+#grande {
+  font-size: 24px;
+}
+#number4 {
+  background-color: greenyellow;
+  font-size: 24px;
+  font-weight: bold;
+}
